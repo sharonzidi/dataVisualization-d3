@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Overall Rating",
+    "show": true,
+    "color": "red",
+    "currentPopulation": 5,
+    "history": [
+      {
+        "year": 2008,
+        "population": 5
+      },
+      {
+        "year": 2009,
+        "population": 3.22
+      },
+      {
+        "year": 2010,
+        "population": 3.69
+      },
+      {
+        "year": 2011,
+        "population": 3.21
+      },
+      {
+        "year": 2012,
+        "population": 3.68
+      },
+      {
+        "year": 2013,
+        "population": 3.61
+      },
+      {
+        "year": 2014,
+        "population": 3.87
+      },
+      {
+        "year": 2015,
+        "population": 3.74
+      },
+      {
+        "year": 2016,
+        "population": 3.91
+      },
+      {
+        "year": 2017,
+        "population": 4.03
+      },
+      {
+        "year": 2018,
+        "population": 4.08
+      }
+    ]
+  },
+  {
+    "name": "Work-balance",
+    "show": true,
+    "color": "blue",
+    "currentPopulation": 4.8,
+    "history": [
+      {
+        "year": 2008,
+        "population": 4.75
+      },
+      {
+        "year": 2009,
+        "population": 3.74
+      },
+      {
+        "year": 2010,
+        "population": 3.95
+      },
+      {
+        "year": 2011,
+        "population": 3.67
+      },
+      {
+        "year": 2012,
+        "population": 3.45
+      },
+      {
+        "year": 2013,
+        "population": 3.24
+      },
+      {
+        "year": 2014,
+        "population": 3.44
+      },
+      {
+        "year": 2015,
+        "population": 3.52
+      },
+      {
+        "year": 2016,
+        "population": 3.57
+      },
+      {
+        "year": 2017,
+        "population": 3.81
+      },
+      {
+        "year": 2018,
+        "population": 3.85
+      }
+    ]
+  },
+  {
+    "name": "Career-opportunity",
+    "show": true,
+    "color": "green",
+    "currentPopulation": 4.6,
+    "history": [
+      {
+        "year": 2008,
+        "population": 5
+      },
+      {
+        "year": 2009,
+        "population": 3.15
+      },
+      {
+        "year": 2010,
+        "population": 3.48
+      },
+      {
+        "year": 2011,
+        "population": 3.22
+      },
+      {
+        "year": 2012,
+        "population": 3.8
+      },
+      {
+        "year": 2013,
+        "population": 3.66
+      },
+      {
+        "year": 2014,
+        "population": 3.65
+      },
+      {
+        "year": 2015,
+        "population": 3.58
+      },
+      {
+        "year": 2016,
+        "population": 3.63
+      },
+      {
+        "year": 2017,
+        "population": 3.82
+      },
+      {
+        "year": 2018,
+        "population": 3.83
+      }
+    ]
+  }
+]

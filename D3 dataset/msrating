@@ -1,0 +1,101 @@
+[
+  {
+    "year": 2008,
+    "month": 2,
+    "overall-rating": 5,
+    "work-balance": 4.75,
+    "career-opportunity": 5,
+    "comp-benefit": 4.5,
+    "Event": "Microsoft launches Windows Server 2008, SQL Server 2008 and Visual Studio 2008"
+  },
+  {
+    "year": 2009,
+    "month": 10,
+    "overall-rating": 3.22,
+    "work-balance": 3.74,
+    "career-opportunity": 3.15,
+    "comp-benefit": 4,
+    "Event": "Microsoft launches Windows 7; opens first physical store in Scottsdale, Arizona"
+  },
+  {
+    "year": 2010,
+    "month": 6,
+    "overall-rating": 3.69,
+    "work-balance": 3.95,
+    "career-opportunity": 3.48,
+    "comp-benefit": 4.11,
+    "Event": "Microsoft launches general availability of Office 2010"
+  },
+  {
+    "year": 2011,
+    "month": 6,
+    "overall-rating": 3.21,
+    "work-balance": 3.67,
+    "career-opportunity": 3.22,
+    "comp-benefit": 3.5,
+    "Event": "Microsoft launches Office 365"
+  },
+  {
+    "year": 2012,
+    "month": 10,
+    "overall-rating": 3.68,
+    "work-balance": 3.45,
+    "career-opportunity": 3.8,
+    "comp-benefit": 4.05,
+    "Event": "Microsoft launches Windows 8 and Microsoft Surface"
+  },
+  {
+    "year": 2013,
+    "month": 10,
+    "overall-rating": 3.61,
+    "work-balance": 3.24,
+    "career-opportunity": 3.66,
+    "comp-benefit": 4.05,
+    "Event": "Microsoft launches Surface 2 and Surface Pro 2"
+  },
+  {
+    "year": 2014,
+    "month": 6,
+    "overall-rating": 3.87,
+    "work-balance": 3.44,
+    "career-opportunity": 3.65,
+    "comp-benefit": 3.99,
+    "Event": "Microsoft launches Surface Pro 3"
+  },
+  {
+    "year": 2015,
+    "month": 7,
+    "overall-rating": 3.74,
+    "work-balance": 3.52,
+    "career-opportunity": 3.58,
+    "comp-benefit": 4.03,
+    "Event": "Microsoft launches Windows 10"
+  },
+  {
+    "year": 2016,
+    "month": 6,
+    "overall-rating": 3.91,
+    "work-balance": 3.57,
+    "career-opportunity": 3.63,
+    "comp-benefit": 3.98,
+    "Event": "Microsoft launches SQL Server 2016"
+  },
+  {
+    "year": 2017,
+    "month": 11,
+    "overall-rating": 4.03,
+    "work-balance": 3.81,
+    "career-opportunity": 3.82,
+    "comp-benefit": 4.05,
+    "Event": "Microsoft launches Xbox One X"
+  },
+  {
+    "year": 2018,
+    "month": 8,
+    "overall-rating": 4.08,
+    "work-balance": 3.85,
+    "career-opportunity": 3.83,
+    "comp-benefit": 3.97,
+    "Event": "Surface Go becomes available"
+  }
+]
